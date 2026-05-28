@@ -14,7 +14,7 @@ breastcancer-gradcam.ipynb (Jupyter notebook para treinamento do modelo e avalia
 modelconfig.keras (Configuração dos parâmetros do modelo)<br>
 dataset_root\ (Images do dataset)
 <br><br>
-## 🔗 **LINK PARA O DATASET**
+## 🔗 **LINK PARA O ARTIGO**
 https://medium.com/@rodrigoalexandre1981/uma-introdu%C3%A7%C3%A3o-%C3%A0-explainable-ai-xai-utilizando-grad-cam-4425081682b7
 <br><br>
 ## ⚙️ **RECURSOS**
