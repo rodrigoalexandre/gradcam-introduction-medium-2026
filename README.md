@@ -12,7 +12,7 @@ O artigo apresenta uma introdução à Explainable AI utilizando a técnica **Gr
 
 |--- breastcancer-gradcam.ipynb (Jupyter notebook para treinamento do modelo e avaliação das predições)<br>
 |--- modelconfig.keras (Configuração dos parâmetros do modelo)<br>
-|--- dataset_root\
+|--- dataset_root\ <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Imagens do dataset
 <br><br>
 ## 🔗 **LINK PARA O ARTIGO**
